@@ -7,6 +7,7 @@ rmdir /s /q .parcel-cache
 Type cls and press Enter
 Type exit and press Enter. This will close the current terminal session.
 Ctrl + C
+git commit -m "Initial commit"
 
 /////////////////////
 0. some important we need to see like how install beta version of parcel etc from internet so we can avoid some errors I hope🤣🤣! 
