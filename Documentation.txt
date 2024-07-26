@@ -1,0 +1,7 @@
+/////////controller.js.....///////////////
+1. At first line of code we import everything from model.js.
+2. On second line we import recipeView from recipeView 
+/////////////////model.js...//////////////
+
+///////////////recipeView.js.../////////
+1. We write recipeView like that at line 134 because to export it by default to make it another clone which does not change anything from orignal one 

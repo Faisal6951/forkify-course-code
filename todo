@@ -1,0 +1,28 @@
+//////////////////////////////////......Important we need to do!//////
+Different between default export or others 
+
+
+/////////////////////////////Npm Command lines/////////////////////// 
+rmdir /s /q .parcel-cache
+Type cls and press Enter
+Type exit and press Enter. This will close the current terminal session.
+Ctrl + C
+
+/////////////////////
+0. some important we need to see like how install beta version of parcel etc from internet so we can avoid some errors I hope🤣🤣! 
+1. First of all we need to make pakage.json like that npm init and than parcel with beta if it does not work than install parcel updated version.
+2.  than after writing script in package.json for run pacel and build parcel  than ofcourse install parcel like that  npm i parcel@2 -D(this if got some error from betaversion!) or npm i parcel@next -D.
+3. If we get some error from sass than simply install npm it may solve this problem 
+4. Run according to flow of video we can learn that how its going to work ok!
+5. Some we need to watch in video like api key how it implemented everthing but according to flow of video  
+///////////////////////////////////////////
+1. So, here is one problem is that dis folder not eligble to get icons from imges folder So for that need to import it in controller.js by doing all of this icons will be back 
+2. At the end we need to install some packages such as npm i core-js regenerator-runtime and after that import in controller.js.
+3. again i want to say that keep work according to flow of videos don't need mess again
+//////////////////////////////////
+1. In this first of all change code in html right now! 
+<!-- <a href="#dkd">recipe1</a> -->
+<!-- <a href="#dkaad">recipe2</a> -->
+///////////////////////////////////
+1. After implemented everything at point recipe than start out parcel to check everthing is correct or not!
+2. also install fraction like that npm fractional than install in here and import in recipeView file 'import Fraction from 'fractional'
